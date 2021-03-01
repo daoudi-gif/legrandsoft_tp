@@ -1,0 +1,27 @@
+body{
+    margin-top : 50px;
+    padding : 0;
+
+}
+
+
+.container .contenu ul a{
+    text-decoration: none;
+}
+
+
+.nav{
+    background-color: white;
+    color: black;
+    box-shadow: 0 ,0, 15px solid gray ;
+
+}
+
+.nav  a{
+    padding: 15px;
+}
+
+
+ul a li :hover{
+    color: orange;
+}
